@@ -4,6 +4,8 @@
 	"cockpit": "122"
     },
 
+    "name": "users",
+
     "menu": {
         "index": {
             "label": "Accounts",
